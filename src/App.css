@@ -1,0 +1,71 @@
+body {
+  background-color: #e0e0eb;
+}
+.download {
+  float: right;
+}
+#container {
+  display: flex;
+  align-items: center;
+}
+#container p {
+  margin-left: 1em;
+}
+div.container4 {
+  height: 10em;
+  position: relative;
+  background-image: url(../public/top.jpg);
+}
+div.container4 p {
+  margin: 0;
+  font-family: "Lucida Handwriting";
+  position: absolute;
+  font-size: 30px;
+  top: 40%;
+  left: 50%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%);
+}
+.square {
+  height: 500px;
+  width: 500px;
+  padding-left: 20px;
+  background-color: #d9d9d9;
+}
+.col1 {
+  font-size: 50px;
+  padding-left: 250px;
+}
+.button {
+  background-color: #ccffcc;
+  color: black;
+  padding: 30px;
+  text-align: left;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 30px;
+  margin: 2px 2px;
+  cursor: pointer;
+}
+.button5 {
+  border-radius: 50%;
+}
+.oval {
+  height: 500px;
+  width: 700px;
+  background-color: #c3c4c6;
+  font-size: 20px;
+  text-align: center;
+  border-radius: 50%;
+}
+hr {
+  background-color: #c3c4c6;
+}
+.column20 {
+  width: 150px;
+  height: 150px;
+  margin-right: 200px;
+}
+.navbar {
+  background-color: #ebebe0;
+}
